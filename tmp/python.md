@@ -1,9 +1,9 @@
 # Script python
-## Créer le script
+## Créer le projet
 
 Se rendre sur (l'IDE)[https://repl.it] et créer un projet vide.
 
-> NOTE : il n'y a pas besoin de se créer un compte.
+> NOTE : **il n'y a pas besoin de se créer un compte.**
 
 ![img-1](./img-1.png)
 
@@ -12,6 +12,8 @@ Sélectionner `python` puis cliquer sur `create repl`
 ![img-2](./img-2.png)
 
 > Il est possible que le site demande de résoudre des problèmes pour vérifier que vous êtes bien un humain (recaptcha)
+
+## Créer le script
 
 Coller le texte suivant dans la **partie centrale** :
 
@@ -22,8 +24,10 @@ Coller le texte suivant dans la **partie centrale** :
       mon_table = list(csv.reader(f, dialect=mon_dial))
     
     print(mon_table[13][1])
+    
+## Créer le fichier `.csv`
 
-Créer un nouveau fichier et l'appeler `fichier.csv` (voir image plus bas) :
+Créer un nouveau fichier et l'appeler `fichier.csv` (cliquer sur l'icone "![img-i](./img-i.png)" en haut à gauche) :
 
 ![img-3](./img-3.png)
 
@@ -46,7 +50,8 @@ Cliquer sur `fichier.csv` dans la partie à gauche et coller le texte suivant da
     70,Pain epice miel,"2,12",1,O
     71,Semoule Kebab,"2,94",1,O
     83,Buche citron,"9,42",1,O
-    
+
+## Exécuter le script
 
 Cliquer sur `Run >` en haut de l'écran, le résultat s'affiche à droite (sur la partie noire) :
 
