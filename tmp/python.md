@@ -1,6 +1,6 @@
 # Script python
 
-#### Sommaire :
+### Sommaire :
 
 * [Créer le projet](#créer-le-projet)
 * [Créer le script](#créer-le-script)
