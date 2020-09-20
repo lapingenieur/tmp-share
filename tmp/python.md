@@ -1,7 +1,15 @@
 # Script python
+
+#### Sommaire :
+
+* [Créer le projet](#créer-le-projet)
+* [Créer le script](#créer-le-script)
+* [Créer le fichier `.csv`](#créer-le-fichier-csv)
+* [Exécuter le script](#exécuter-le-script)
+
 ## Créer le projet
 
-Se rendre sur (l'IDE)[https://repl.it] et créer un projet vide.
+Se rendre sur [l'IDE](https://repl.it) et créer un projet vide.
 
 > NOTE : **il n'y a pas besoin de se créer un compte.**
 
