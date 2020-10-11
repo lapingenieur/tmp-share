@@ -2,7 +2,7 @@
 
 ## Sommaire :
 
-> Choisissez "Images simples" en cas de doutes :
+> **Choisissez "Images simples" en cas de doutes :**
 
 #### Images simples :
 
