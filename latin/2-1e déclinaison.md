@@ -1,4 +1,4 @@
-# La 1e déclinaison du latin
+# Leçon n°2 - La 1e déclinaison du latin
 
 ## Cours
 
