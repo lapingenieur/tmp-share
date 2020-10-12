@@ -2,7 +2,7 @@
 
 ## Sommaire :
 
-> **Choisissez "Images simples" en cas de doutes :**
+> **Choisissez "Images simples" pour l'instant :**
 
 #### Images simples :
 
@@ -12,7 +12,7 @@
 
 ---
 
-#### Image (+ description) :
+#### Cours :
 
 > *Pas encore fini :*
 
