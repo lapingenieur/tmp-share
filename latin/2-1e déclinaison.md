@@ -1,12 +1,8 @@
 # La 1e déclinaison du latin
 
-## Image
-
-<img src="./2-1e déclinaison bis.png" alt="cours_image">
-
 ## Cours
 
-| **cas** | **singulier** | **pluriel** |
+| **Cas Latins** | **Singulier** | **Pluriel** |
 |---------|---------------|-------------|
 | Nom     | -*a*          | -*ae*       |
 | Voc     | -*a*          | -*ae*       |
@@ -14,3 +10,7 @@
 | **Gén** | -*ae*         | -*arum*     |
 | Dat     | -*ae*         | -*is*       |
 | Abl     | -*a*          | -*is*       |
+
+## Image
+
+<img src="./2-1e déclinaison bis.png" alt="cours_image">
