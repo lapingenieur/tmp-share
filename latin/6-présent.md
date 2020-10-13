@@ -8,4 +8,4 @@ Pour conjuguer un verbe latin au présent de l'indicatif, on doit :
 
 ## Image
 
-<img src="./6-présent bus.png" alt="cours_image">
+<img src="./6-présent bis.png" alt="cours_image">
