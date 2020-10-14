@@ -11,4 +11,4 @@ When you are a child, your main occupation is to play, while when you're an adul
 To be a *good* adult, you need to :
 * be less childish
 * spend less time to play
-* think more fo the others
+* think more of the others
