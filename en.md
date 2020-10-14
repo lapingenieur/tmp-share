@@ -6,6 +6,8 @@ Are you affraid by adulthood ? Is that why you want to stay a child ? Or is that
 
 When you are a child, your main occupation is to play, while when you're an adult, you can try to do some more interresting things like searching to understand the universe around you, people, history and more ! As well, spending all your time playing at several games doesn't do anything for the others, whereas the adults work for the others : a teacher educates his or her students, and this makes more sense than playing to be pirates all the time...
 
+---
+
 To be a *good* adult, you need to :
 * be less childish
 * spend less time to play
