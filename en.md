@@ -12,3 +12,4 @@ To be a *good* adult, you need to :
 * be less childish
 * spend less time to play
 * think more of the others
+* be more serious
