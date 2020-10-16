@@ -23,7 +23,3 @@ Pour conjuguer un verbe latin au présent de l'indicatif, on doit :
 | 2e pl | tis | tis | itis | itis | tis | estis |
 | 3e pl | nt | nt | unt | iunt | unt | sunt |
 | infinitif | are | ere | ere | ere | ire | esse |
-
-## Image
-
-<img src="./6-présent bis.png" alt="cours_image">
