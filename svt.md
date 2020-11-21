@@ -41,3 +41,15 @@ Système formé par un environnement (biotope) et par l'ensemble des espèces (b
     </ul>
   </li>
 </ul>
+
+Ces espèces se sont adaptées à leur environnement :
+
+<ul>
+  <li>Les lions : </li>
+</ul>
+
+> HERE : todo
+
+# Atelier III :
+
+### Question 1
