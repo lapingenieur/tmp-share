@@ -22,6 +22,22 @@ Système formé par un environnement (biotope) et par l'ensemble des espèces (b
   <li>Forêt tempérée : milieu à température ambiente (5°/20°), pas très sec (60-340 cm/an)<br>On note que les forêts sempervirentes sont plus humides que celles décidues.</li>
 </ul>
 
-## Suite
+#### Quelques espèces vivant dans ces biomes
 
-* 
+<ul>
+  <li>En savane :
+    <ul>
+      <li>Les lions</li>
+      <li>Les baobabs</li>
+      <li>Les girafes</li>
+      <li>Les herbes de rhodes</li>
+    </ul>
+  </li>
+  <li>En forêt tempérée :
+    <ul>
+      <li>Les écureuils</li>
+      <li>Les fougères</li>
+      <li>Les sangliers</li>
+    </ul>
+  </li>
+</ul>
