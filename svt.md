@@ -15,12 +15,13 @@ Système formé par un environnement (biotope) et par l'ensemble des espèces (b
 
 ### Question 3
 
+#### Caractéristiques climatiques
+
 <ul>
-  <li>
-    <ul>
-      <li>hi</li>
-      <li>hj</li>
-    </ul>
-  </li>
-  <li>jj</li>
+  <li>foret</li>
+  <li>savane</li>
 </ul>
+
+## Suite
+
+* 
