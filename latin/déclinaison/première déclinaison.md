@@ -53,7 +53,7 @@
 
 <table>
  <tr>
-  <th colspan="3"><code>rosa, ae, f</code> : la rose</th>
+  <th colspan="3"><i>rosa, ae, f</i> : la rose</th>
  </tr>
  <tr>
   <th>Cas</th>
@@ -66,12 +66,12 @@
   <td><code>ros<b>ae</b></code></td>
  </tr>
  <tr>
-  <td><b>Acc</b>ocatif</td>
+  <td><b>Acc</b>usatif</td>
   <td><code>ros<b>a</b></code></td>
   <td><code>ros<b>ae</b></code></td>
  </tr>
  <tr>
-  <td><b>V</b>usatif</td>
+  <td><b>V</b>ocatif</td>
   <td><code>ros<b>am</b></code></td>
   <td><code>ros<b>as</b></code></td>
  </tr>
