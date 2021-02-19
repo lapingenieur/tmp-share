@@ -2,7 +2,8 @@
 
 ## Informations générales
 
-* Formes primitives :
+<ul>
+<li> Formes primitives :
 <table>
  <tr>
   <th>Masculin</th>
@@ -10,15 +11,17 @@
   <th>Neutre</th>
  </tr>
  <tr>
-  <td style="text-align:center"><code>-us, -i</code> ou <code>-r, -i</code><br/>(dans certains cas)</td>
+  <td style="text-align: center"><code>-us, -i</code> ou <code>-r, -i</code><br/>(dans certains cas)</td>
   <td><code>-us, -i</code></td>
   <td><code>-um, -i</code></td>
  </tr>
 </table>
-* On la reconnait à son génétif en `-i` pour tous les genres
-* Contient des noms masculins, neutres, et quelques féminins
-* Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison
-* Certains noms masculins de la deuxième déclinaison tels que *puer, i, m* ont un nominatif et un vocatif sans désinance (le nominatif étant le radical)(voir plus bas)
+</li>
+<li> On la reconnait à son génétif en `-i` pour tous les genres</li>
+<li> Contient des noms masculins, neutres, et quelques féminins</li>
+<li> Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison</li>
+<li> Certains noms masculins de la deuxième déclinaison tels que *puer, i, m* ont un nominatif et un vocatif sans désinance (le nominatif étant le radical)(voir plus bas)</li>
+</ul>
 
 ## Tableau des désinances
 
@@ -39,14 +42,14 @@
  </tr>
  <tr>
   <td><b>N</b>ominatif</td>
-  <td><code>-us</code>( ou <code>-r</code>)</td>
+  <td><code>-us</code> ( ou <code>-r</code>)</td>
   <td><code>-i</code></td>
   <td><code>-um</code></td>
   <td><code>-a</code></td>
  </tr>
  <tr>
   <td><b>V</b>ocatif</td>
-  <td><code>-e</code>( ou <code>-r</code>)</td>
+  <td><code>-e</code> ( ou <code>-r</code>)</td>
   <td><code>-i</code></td>
   <td><code>-um</code></td>
   <td><code>-a</code></td>
@@ -91,7 +94,7 @@
   <th colspan="2">Neutre</th>
  </tr>
  <tr>
-  <th colspan="2"><i>puer, i, m</i> : le maître</th>
+  <th colspan="2"><i>puer, i, m</i> : le garçon</th>
   <th colspan="2"><i>dominus, i, m</i> : le maître</th>
   <th colspan="2"><i>templum, i, n</i> : le temple</th>
  </tr>
