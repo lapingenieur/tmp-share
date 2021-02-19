@@ -28,7 +28,6 @@
   <td><code>-ae</code></td>
  </tr>
  <tr>
- <tr>
   <td><b>Acc</b>usatif</td>
   <td><code>-am</code></td>
   <td><code>-as</code></td>
