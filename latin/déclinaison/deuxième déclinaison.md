@@ -10,7 +10,7 @@
   <th>Neutre</th>
  </tr>
  <tr>
-  <td><code>-us, -i</code><br/>ou <code>-r, -i</code><br/>(dans certains cas)</td>
+  <td style="text-align:center"><code>-us, -i</code> ou <code>-r, -i</code><br/>(dans certains cas)</td>
   <td><code>-us, -i</code></td>
   <td><code>-um, -i</code></td>
  </tr>
@@ -18,7 +18,7 @@
 * On la reconnait à son génétif en `-i` pour tous les genres
 * Contient des noms masculins, neutres, et quelques féminins
 * Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison
-* Certains noms masculins de la deuxième déclinaison tels que *puer, i, m* ont un nominatif et un vocatif sans désinance (le nominatif étant le radical)(voir l'exemple plus bas)
+* Certains noms masculins de la deuxième déclinaison tels que *puer, i, m* ont un nominatif et un vocatif sans désinance (le nominatif étant le radical)(voir plus bas)
 
 ## Tableau des désinances
 
