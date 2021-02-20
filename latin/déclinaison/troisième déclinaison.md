@@ -5,10 +5,10 @@
 <ul>
  <li>La première forme primitive des noms de la troisième déclinaison est très variable, mais principalement :</li>
   <ul>
-   <li> `-is`</li>
-   <li> `-e`</li>
-   <li> `-al`</li>
-   <li> `-ar`</li>
+   <li> <code>-is</code></li>
+   <li> <code>-e</code></li>
+   <li> <code>-al</code></li>
+   <li> <code>-ar</code></li>
   </ul>
  <li>On la reconnait à son génétif en `-is`</li>
  <li>Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison</li>
@@ -22,7 +22,7 @@
 
 ## Tableau des désinances
 
-### Les <u><b>impari</b></u>syllabiques
+### Les imparisyllabiques
 
 <table>
  <tr>
@@ -83,7 +83,7 @@
  </tr>
 </table>
 
-### Les <u><b>pari</b></u>syllabiques
+### Les parisyllabiques
 
 <table>
  <tr>
@@ -146,7 +146,7 @@
 
 ## Exemple
 
-### Les <u><b>impari</b></u>syllabiques
+### Les imparisyllabiques
 
 <table>
  <tr>
@@ -208,7 +208,7 @@
  </tr>
 </table>
 
-### Les <u><b>pari</b></u>syllabiques
+### Les parisyllabiques
 
 <table>
  <tr>
