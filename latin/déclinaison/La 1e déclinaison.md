@@ -32,6 +32,7 @@
   <td><code>-am</code></td>
   <td><code>-as</code></td>
  </tr>
+ <tr>
   <td><b>G</b>énétif</td>
   <td><code>-ae</code></td>
   <td><code>-arum</code></td>
