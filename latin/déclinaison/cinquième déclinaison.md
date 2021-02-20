@@ -71,7 +71,7 @@
  </tr>
  <tr>
   <td><b>Acc</b>usatif</td>
-  <td><code>r<b>ei</b></code></td>
+  <td><code>r<b>em</b></code></td>
   <td><code>r<b>es</b></code></td>
  </tr>
  <tr>
