@@ -65,12 +65,12 @@
   <td><code>ros<b>ae</b></code></td>
  </tr>
  <tr>
-  <td><b>Acc</b>usatif</td>
+  <td><b>V</b>ocatif</td>
   <td><code>ros<b>a</b></code></td>
   <td><code>ros<b>ae</b></code></td>
  </tr>
  <tr>
-  <td><b>V</b>ocatif</td>
+  <td><b>Acc</b>usatif</td>
   <td><code>ros<b>am</b></code></td>
   <td><code>ros<b>as</b></code></td>
  </tr>
