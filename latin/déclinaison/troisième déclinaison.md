@@ -2,23 +2,27 @@
 
 ## Informations générales
 
-* La première forme primitive des noms de la troisième déclinaison est très variable, mais principalement :
-  * `-is, -is`
-  * `-e, -is`
-  * `-al, -is`
-  * `-ar, -is`
-* On la reconnait à son génétif en `-is`
-* Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison
-* Cette déclinaison a la particularité d'avoir deux sous-catégories :
- <ul>
-  <li> les noms ***pari***syllabiques : ils ont, comme d'habitude, le même nombre de syllabes à tous les cas ;</li>
-  <li> les noms ***impari***syllabiques : eux ont un nombre de syllabes différent au nominatif, au vocatif (et à l'accusatif pour les noms neutres). Le nominatif et le vocatif (ainsi que l'accusatif si le nom est neutre) ont alors la même forme irrégulière, celle de la première forme primitive.</li>
- </ul>
-* Les noms neutres de la troisième déclinaison en `-al` et en `-ar` (au nominatif) comme *animal, is, n* se déclinent toujours comme si ils étaient ***pari***syllabiques
+<ul>
+ <li>La première forme primitive des noms de la troisième déclinaison est très variable, mais principalement :</li>
+  <ul>
+   <li> `-is`</li>
+   <li> `-e`</li>
+   <li> `-al`</li>
+   <li> `-ar`</li>
+  </ul>
+ <li>On la reconnait à son génétif en `-is`</li>
+ <li>Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison</li>
+ <li>Cette déclinaison a la particularité d'avoir deux sous-catégories :</li>
+  <ul>
+   <li> les noms <b><i>pari</i></b>syllabiques : ils ont, comme d'habitude, le même nombre de syllabes à tous les cas ;</li>
+   <li> les noms <b><i>impari</i></b>syllabiques : eux ont un nombre de syllabes différent au nominatif, au vocatif (et à l'accusatif pour les noms neutres). Le nominatif et le vocatif (ainsi que l'accusatif si le nom est neutre) ont alors la même forme irrégulière, celle de la première forme primitive.</li>
+  </ul>
+ <li>Les noms neutres de la troisième déclinaison en <code>-al</code> et en <code>-ar</code> (au nominatif) comme <i>animal, is, n</i> se déclinent toujours comme si ils étaient <b><i>pari</i></b>syllabiques</li>
+</ul>
 
 ## Tableau des désinances
 
-### Les **__impari__**syllabiques
+### Les <u><b>impari</b></u>syllabiques
 
 <table>
  <tr>
@@ -79,7 +83,7 @@
  </tr>
 </table>
 
-### Les **__pari__**syllabiques
+### Les <u><b>pari</b></u>syllabiques
 
 <table>
  <tr>
@@ -142,7 +146,7 @@
 
 ## Exemple
 
-### Les **__impari__**syllabiques
+### Les <u><b>impari</b></u>syllabiques
 
 <table>
  <tr>
@@ -204,7 +208,7 @@
  </tr>
 </table>
 
-### Les **__pari__**syllabiques
+### Les <u><b>pari</b></u>syllabiques
 
 <table>
  <tr>
