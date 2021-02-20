@@ -82,10 +82,10 @@
  <td>Nom, N</td>
   <td><code>ros<b>a</b></code></td>
   <td><code>ros<b>ae</b></code></td>
-  <td><code><b>puer</b></code></td>
-  <td><code>puer<b>i</b></code></td>
   <td><code>domin<b>us</b></code></td>
   <td><code>domin<b>i</b></code></td>
+  <td><code><b>puer</b></code></td>
+  <td><code>puer<b>i</b></code></td>
   <td><code>templ<b>um</b></code></td>
   <td><code>templ<b>a</b></code></td>
   <td><code><b>dux</b></code></td>
@@ -108,10 +108,10 @@
  <td>Voc, V</td>
   <td><code>ros<b>a</b></code></td>
   <td><code>ros<b>ae</b></code></td>
-  <td><code><b>puer</b></code></td>
-  <td><code>puer<b>i</b></code></td>
   <td><code>domin<b>e</b></code></td>
   <td><code>domin<b>i</b></code></td>
+  <td><code><b>puer</b></code></td>
+  <td><code>puer<b>i</b></code></td>
   <td><code>templ<b>um</b></code></td>
   <td><code>templ<b>a</b></code></td>
   <td><code><b>dux</b></code></td>
@@ -134,10 +134,10 @@
  <td>Acc, A</td>
   <td><code>ros<b>am</b></code></td>
   <td><code>ros<b>as</b></code></td>
-  <td><code>puer<b>um</b></code></td>
-  <td><code>puer<b>os</b></code></td>
   <td><code>domin<b>um</b></code></td>
   <td><code>domin<b>os</b></code></td>
+  <td><code>puer<b>um</b></code></td>
+  <td><code>puer<b>os</b></code></td>
   <td><code>templ<b>um</b></code></td>
   <td><code>templ<b>a</b></code></td>
   <td><code>du<u>c</u><b>em</b></code></td>
@@ -160,10 +160,10 @@
  <td>Gen, G</td>
   <td><code>ros<b>ae</b></code></td>
   <td><code>ros<b>arum</b></code></td>
-  <td><code>puer<b>i</b></code></td>
-  <td><code>puer<b>orum</b></code></td>
   <td><code>domin<b>i</b></code></td>
   <td><code>domin<b>orum</b></code></td>
+  <td><code>puer<b>i</b></code></td>
+  <td><code>puer<b>orum</b></code></td>
   <td><code>templ<b>i</b></code></td>
   <td><code>templ<b>orum</b></code></td>
   <td><code>du<u>c</u><b>is</b></code></td>
@@ -186,10 +186,10 @@
  <td>Dat, D</td>
   <td><code>ros<b>ae</b></code></td>
   <td><code>ros<b>is</b></code></td>
-  <td><code>puer<b>o</b></code></td>
-  <td><code>puer<b>is</b></code></td>
   <td><code>domin<b>o</b></code></td>
   <td><code>domin<b>is</b></code></td>
+  <td><code>puer<b>o</b></code></td>
+  <td><code>puer<b>is</b></code></td>
   <td><code>templ<b>o</b></code></td>
   <td><code>templ<b>is</b></code></td>
   <td><code>du<u>c</u><b>i</b></code></td>
@@ -212,10 +212,10 @@
  <td>Abl, Ab</td>
   <td><code>ros<b>a</b></code></td>
   <td><code>ros<b>is</b></code></td>
-  <td><code>puer<b>o</b></code></td>
-  <td><code>puer<b>is</b></code></td>
   <td><code>domin<b>o</b></code></td>
   <td><code>domin<b>is</b></code></td>
+  <td><code>puer<b>o</b></code></td>
+  <td><code>puer<b>is</b></code></td>
   <td><code>templ<b>o</b></code></td>
   <td><code>templ<b>is</b></code></td>
   <td><code>du<u>c</u><b>e</b></code></td>
