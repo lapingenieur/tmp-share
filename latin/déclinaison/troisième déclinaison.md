@@ -17,7 +17,18 @@
    <li> les noms <b><i>pari</i></b>syllabiques : ils ont, comme d'habitude, le même nombre de syllabes à tous les cas ;</li>
    <li> les noms <b><i>impari</i></b>syllabiques : eux ont un nombre de syllabes différent au nominatif, au vocatif (et à l'accusatif pour les noms neutres). Le nominatif et le vocatif (ainsi que l'accusatif si le nom est neutre) ont alors la même forme irrégulière, celle de la première forme primitive.</li>
   </ul>
+ <li>Les noms dont le radical se termine par <b>deux consones</b> comme <i>urbs, urbis, f</i> (la ville) se déclinent <b>toujours</b> comme si ils étaient <b><i>pari</i></b>syllabiques</li>
  <li>Les noms neutres de la troisième déclinaison en <code>-al</code> et en <code>-ar</code> (au nominatif) comme <i>animal, is, n</i> se déclinent toujours comme si ils étaient <b><i>pari</i></b>syllabiques</li>
+ <li>Les six noms <b><i>pari</i></b>syllabiques suivants se déclinent comme si ils étaient <b><i>impari</i></b>syllabiques :
+  <ul>
+   <li><i>Pater, tris, m</i> : le père</li>
+   <li><i>Mater, tris, f</i> : la mère</li>
+   <li><i>Frater, tris, m</i> : le frère</li>
+   <li><i>Senex, senis, m</i> : le vieillard</li>
+   <li><i>Jevenis, is, m</i> : le jeune homme</li>
+   <li><i>Canis, is, m</i> : le chien</li>
+  </ul>
+ </li>
 </ul>
 
 ## Tableau des désinances
