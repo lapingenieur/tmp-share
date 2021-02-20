@@ -90,7 +90,7 @@
  </tr>
  <tr>
   <th colspan="2"><i>manus, us, f</i> : la main</th>
-  <th colspan="2"><i>cornus, us, n</i> : le corne, aile d'une armée</th>
+  <th colspan="2"><i>cornus, us, n</i> : le corne,<br />aile d'une armée</th>
  </tr>
  <tr>
   <th>Singulier</th>
