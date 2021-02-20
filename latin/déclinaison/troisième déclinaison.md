@@ -10,7 +10,7 @@
    <li> <code>-al</code></li>
    <li> <code>-ar</code></li>
   </ul>
- <li>On la reconnait à son génétif en `-is`</li>
+ <li>On la reconnait à son génétif en <code>-is</code></li>
  <li>Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison</li>
  <li>Cette déclinaison a la particularité d'avoir deux sous-catégories :</li>
   <ul>

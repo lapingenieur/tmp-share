@@ -17,7 +17,7 @@
  </tr>
 </table>
 </li>
-<li> On la reconnait à son génétif en `-i` pour tous les genres</li>
+<li> On la reconnait à son génétif en <code>-i</code> pour tous les genres</li>
 <li> Contient des noms masculins, neutres, et quelques féminins</li>
 <li> Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison</li>
 <li> Certains noms masculins de la deuxième déclinaison tels que *puer, i, m* ont un nominatif et un vocatif sans désinance (le nominatif étant le radical)(voir plus bas)</li>
