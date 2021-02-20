@@ -17,6 +17,9 @@
  </li>
  <li>On la reconnait à son génétif en <code>-us</code></li>
  <li>Comme souvent, les noms féminins et masculins se déclinent de la même manière dans cette déclinaison</li>
+ <li>La terminaison du datif singulier (<code>-us</code>, voir plus bas) peut être remplacée par <code>-u</code> (assez rare et surtout employée par les poètes)</li>
+ <li>De même, certains noms de la quatrième déclinaison ont un datif et un ablatif pluriels en <code>-ubus</code>, forme plus ancienne de <code>-ibus</code> (voir plus bas)</li>
+ <li>Certains noms de la quatrième déclinaison comme <i>jussu</i> (sur l'ordre de) ou <i>rogatu</i> (sur la demande de) ne s'emploient qu'à l'ablatif singulier (selon <a href="https://www.prima-elementa.fr/chap12.html">ce site</a> et <a href="https://en.wiktionary.org/wiki/rogatus#Declension">wiktionnary</a>)</li>
 </ul>
 
 ## Tableau des désinances
@@ -90,7 +93,7 @@
  </tr>
  <tr>
   <th colspan="2"><i>manus, us, f</i> : la main</th>
-  <th colspan="2"><i>cornus, us, n</i> : le corne,<br />aile d'une armée</th>
+  <th colspan="2"><i>cornus, us, n</i> : la corne,<br />l'aile d'une armée</th>
  </tr>
  <tr>
   <th>Singulier</th>
